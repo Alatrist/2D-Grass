@@ -72,12 +72,17 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 0
+    - _res: 200
     - alpha_cul: 1
     - frequency: 0.5
     - scale: 2
     - u_time: 0
+    - whirling_speed: 0.81
+    - wind_strength: 0.87
     - xmul: 1
     - ymul: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _res: {r: 2000, g: 2000, b: 0, a: 0}
+    - wind_dir: {r: 1, g: 0, b: 0, a: 0}
